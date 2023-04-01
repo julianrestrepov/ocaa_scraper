@@ -8,9 +8,13 @@ use the final data to create the strategy for his team.
 ### Which are some questions can we answer with this data collected? ###
 
 Who is the best 3-point shooter on the rival team?
+
 Which players in the rival team are not efficient with X type of shooting?
+
 Which players should we focus on shadowing?
+
 Which teams are doing better? What type of strategy are they using?
+
 
 
 ### Data to gather:
