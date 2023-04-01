@@ -5,6 +5,12 @@ In this project, I will create a scraper bot that will gather data from the Onta
 This data will be transfered to more intuitive systems for general public to use. For example a trainer from ateam could
 use the final data to create the strategy for his team.
 
+###Which are some questions can we answer with this data collected?###
+Who is the best 3-point shooter on the rival team?
+Which players in the rival team are not efficient with X type of shooting?
+Which players should we focus on shadowing?
+Which teams are doing better? What type of strategy are they using?
+
 ### Data to gather:
 Results of matches from the Men's Basketball league in Ontario Colleges.
 Individual information on the performance of each player in each match.
