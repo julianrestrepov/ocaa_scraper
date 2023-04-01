@@ -2,6 +2,8 @@
 ***
 
 In this project, I will create a scraper bot that will gather data from the Ontario College Athletic Association (OCAA).
+This data will be transfered to more intuitive systems for general public to use. For example a trainer from ateam could
+use the final data to create the strategy for his team.
 
 ### Data to gather:
 Results of matches from the Men's Basketball league in Ontario Colleges.
